@@ -76,9 +76,10 @@ git clone https://github.com/RONAKBAGRI/Rock-Mine-Classifier.git
 pip install numpy pandas scikit-learn
 ```
 
-3️⃣ **Run the script:**
+3️⃣ **Run the notebook:**
 ```bash
-python sonar_classification.py
+jupyter notebook sonar_classification.ipynb
+
 ```
 
 
